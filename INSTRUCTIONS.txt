@@ -1,0 +1,16 @@
+
+
+
+1. Go to Repl.It online code IDE and select Python as your language or go directly to this URL https://repl.it/repls/PeriodicSuperbOolanguage
+
+2. Copy and paste the code from the ProblemCompleteSolution.py to main.py file on IDE.
+
+3. sentences.txt file will contain all the sentences separated individually in lines. Please hit 'enter' after every sentence in the file and ignore any unnecessary 'enter' within the sentence or after the last sentence.
+
+4. terms.txt file will contain all the terms separted individually in lines. Please hit 'enter' after everey sentence in the file and ignore any unnecessary 'enter' within the term or after the last term.
+
+5. Either upload sentences.txt to the IDE in the root folder where main.py is located or create a new file named sentences.txt in that same directory with all the sentences as specified in 3.
+
+6. Similarly either upload or create terms.txt on IDE.
+
+4. The result of the code will be displayed in the terminal on the right side of the IDE.
